@@ -67,3 +67,17 @@ TypeScript >= 5.0.0
 
 # pnpm
 pnpm add @kalaiarasan/use-fetch-hook
+
+[![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success)](https://www.npmjs.com/package/@kalaiarasan/use-fetch-hook)
+[![Bundle Size](https://img.shields.io/bundlephobia/minzip/@kalaiarasan/use-fetch-hook)](https://bundlephobia.com/package/@kalaiarasan/use-fetch-hook)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/kalaiarasan-dev/use-fetch-hook/pulls)
+
+# 🚀 useFetch
+
+> Production-ready React hook for data fetching with TypeScript, caching, and request cancellation
+
+[![GitHub stars](https://img.shields.io/github/stars/kalaiarasan-dev/use-fetch-hook?style=social)](https://github.com/kalaiarasan-dev/use-fetch-hook)
+[![GitHub forks](https://img.shields.io/github/forks/kalaiarasan-dev/use-fetch-hook?style=social)](https://github.com/kalaiarasan-dev/use-fetch-hook)
