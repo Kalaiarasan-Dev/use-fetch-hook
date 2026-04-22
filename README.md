@@ -30,5 +30,29 @@ cd use-fetch-hook
 # Install dependencies
 npm install
 
+🎯 Usage
+Basic Example
+typescript
+import { useFetch } from './hooks/useFetch';
+
+interface User {
+  id: number;
+  name: string;
+  email: string;
+}
+
+function UserProfile({ userId }: { userId: number }) {
+  const { data, loading, error } = useFetch<User>(
+    `https://api.example.com/users/${userId}`
+  );
+
+  if (loading) return <div>Loading...</div>;
+  if (error) return <div>Error: {error.message}</div>;
+  
+  return <div>{data?.name}</div>;
+}
+With Caching and Callbacks
+
+
 # Start development server
 npm start
