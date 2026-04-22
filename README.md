@@ -56,5 +56,14 @@ npm install @kalaiarasan/use-fetch-hook
 # yarn
 yarn add @kalaiarasan/use-fetch-hook
 
+Requirements
+Node.js >= 18.0.0
+
+React >= 18.0.0
+
+TypeScript >= 5.0.0
+
+
+
 # pnpm
 pnpm add @kalaiarasan/use-fetch-hook
